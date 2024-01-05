@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCsharpMusicPlayer", "MyCsharpMusicPlayer.csproj", "{E421427F-5AD3-48E0-91A0-77F0FE715894}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0313AA5E-BAF7-4F94-88A9-BCD20519AA90}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E421427F-5AD3-48E0-91A0-77F0FE715894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E421427F-5AD3-48E0-91A0-77F0FE715894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E421427F-5AD3-48E0-91A0-77F0FE715894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E421427F-5AD3-48E0-91A0-77F0FE715894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19573B91-0725-46C0-92A4-1F4613D49EF7}
+	EndGlobalSection
+EndGlobal
